@@ -1,4 +1,4 @@
-/*!
+/*! 
 	Wheelzoom 4.0.1
 	license: MIT
 	http://www.jacklmoore.com/wheelzoom
