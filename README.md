@@ -13,3 +13,5 @@
 ## Functions
 * #### Checking of Corona Virus Spread by Region
 * #### Map zoom with scroll
+## Distribution server
+#### [Netlify](https://www.netlify.com/)
